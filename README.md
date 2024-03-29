@@ -103,21 +103,7 @@
   <h2>Resume</h2>
   <p>Download my resume:</p>
   <a href="your_resume_file.pdf" target="_blank">Download Resume</a>
-</aside>
-
-<style>
-  /* Custom CSS for positioning */
-  body {
-    display: flex;
-  }
-  main {
-    flex-grow: 1;
-    padding-right: 20px; /* Adjust as needed */
-  }
-  #resume {
-    width: 200px; /* Adjust as needed */
-  }
-</style>
+  </aside>
 
 </body>
 </html>
