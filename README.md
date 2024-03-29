@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ramanidevi R - Portfolio</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -31,61 +30,61 @@
     <h2>Project 1:Tracking Heart Health Data by using Excel
 </h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
 
   <section id="project2" class="project-details">
     <h2>Project 2: Bike Profit Analysis Dashboard using Excel</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
   
   <section id="project3" class="project-details">
     <h2>Project 3: Northwind Traders using Tableau</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
 
   <section id="project4" class="project-details">
     <h2>Project 4: Heart Disease Data using Tableau</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
 
   <section id="project5" class="project-details">
     <h2>Project 5: Airline Passenger Satisfaction Dashboard using Power BI</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
 
   <section id="project6" class="project-details">
     <h2>Project 6: Bike Profit Analysis Dashboard using Power BI</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
 
   <section id="project7" class="project-details">
     <h2>Project 7: Data Exploration of Maven Movies by using SQL</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
 
   <section id="project8" class="project-details">
     <h2>Project 8:Data Exploration of Motor Vehicle Thefts by using SQL</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
 
   <section id="project9" class="project-details">
     <h2>Project 9: Solving the Diabetes Dataset Using Python</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
 
   <section id="project10" class="project-details">
     <h2>Project 10: Predict COVID-19 Dataset Using Python</h2>
     <p>Project details here...</p>
-    <a href="#" class="close-project">Close Project</a>
+    <a href="#" class="View-project">View Project</a>
   </section>
   
   <section id="contacts">
